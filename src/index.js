@@ -2,6 +2,6 @@ const fetchMovies = () => {
     
 } 
 
-export default {
+export {
     fetchMovies
 }
